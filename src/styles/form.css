@@ -1,0 +1,14 @@
+.checked-ok {
+	position: fixed;
+	padding-left: 1%;
+	margin-top: 1.5%;
+	font-size: 25px;
+	color: green;
+}
+.checked-error {
+	position: fixed;
+	padding-left: 1%;
+	margin-top: 1.5%;
+	font-size: 25px;
+	color: red;
+}
